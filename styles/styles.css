@@ -266,3 +266,17 @@ main .section.highlight {
   background-color: var(--background-color);
   margin: 0;
 }
+
+
+main .section[data-section-divider='both'] {
+  border-top: 2px solid #dddddd;
+  border-bottom: 2px solid #dddddd;
+}
+
+main .section[data-section-divider='top'] {
+  border-top: 2px solid #dddddd;
+}
+
+main .section[data-section-divider='bottom'] {
+  border-bottom: 2px solid #dddddd;
+}
