@@ -269,14 +269,14 @@ main .section.highlight {
 
 
 main .section[data-section-divider='both'] {
-  border-top: 2px solid #dddddd;
-  border-bottom: 2px solid #dddddd;
+  border-top: 1.5px solid #0b543d;
+  border-bottom: 1.5px solid #0b543d;
 }
 
 main .section[data-section-divider='top'] {
-  border-top: 2px solid #dddddd;
+  border-top: 1.5px solid #0b543d;
 }
 
 main .section[data-section-divider='bottom'] {
-  border-bottom: 2px solid #dddddd;
+  border-bottom: 1.5px solid #0b543d;
 }
