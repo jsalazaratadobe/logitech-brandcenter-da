@@ -280,3 +280,8 @@ main .section[data-section-divider='top'] {
 main .section[data-section-divider='bottom'] {
   border-bottom: 1.5px solid #0b543d;
 }
+
+main .section[data-section-divider='top-left'] {
+  border-top: 1.5px solid #0b543d;
+  margin: 0;
+}
