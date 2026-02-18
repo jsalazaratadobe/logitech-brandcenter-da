@@ -1,3 +1,8 @@
+.hero-container .hero-wrapper {
+  max-width: 1800px;
+  padding: 0;
+}
+
 .hero {
   position: relative;
   padding: 40px 24px;
