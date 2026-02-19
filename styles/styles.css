@@ -46,6 +46,9 @@
   --nav-height: 80px;
   --breadcrumbs-height: 34px;
   --header-height: var(--nav-height);
+
+   /* scroll smooth */
+  scroll-behavior: smooth;
 }
 
 /* fallback fonts */
