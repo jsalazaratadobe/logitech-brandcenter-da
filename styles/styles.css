@@ -20,8 +20,8 @@
   --link-hover-color: #05e9c0;
 
   /* fonts */
-  --body-font-family: avenir-next-lt-pro, "Trebuchet MS", sans-serif;
-  --heading-font-family: avenir-next-lt-pro, "Trebuchet MS", sans-serif;
+  --body-font-family: canada-type-gibson, sans-serif;
+  --heading-font-family: canada-type-gibson, sans-serif;
 
   /* body sizes */
   --body-font-size-xxxl: 25px;
@@ -88,6 +88,7 @@ body {
   color: var(--text-color);
   font-family: var(--body-font-family);
   font-size: var(--body-font-size-m);
+  font-weight: 100;
   line-height: 1.6;
 }
 
@@ -131,7 +132,8 @@ h6 {
 
 h1 { font-size: var(--heading-font-size-xxl); }
 h2 { font-size: var(--heading-font-size-xl); }
-h3 { font-size: var(--heading-font-size-l); }
+h3 { font-size: var(--heading-font-size-l);
+    font-weight: 300; }
 h4 { font-size: var(--heading-font-size-m); }
 h5 { font-size: var(--heading-font-size-s); }
 h6 { font-size: var(--heading-font-size-xs); }
