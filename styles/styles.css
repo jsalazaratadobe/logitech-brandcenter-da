@@ -16,8 +16,8 @@
   --light-color: #f8f8f8;
   --dark-color: #0d3a38;
   --text-color: #131313;
-  --link-color: #0d3a38;
-  --link-hover-color: #00fdcf;
+  --link-color: #00fdcf;
+  --link-hover-color: #05e9c0;
 
   /* fonts */
   --body-font-family: avenir-next-lt-pro, "Trebuchet MS", sans-serif;
@@ -198,7 +198,7 @@ button {
   text-align: center;
   text-decoration: none;
   background-color: var(--link-color);
-  color: var(--background-color);
+  color: var(--text-color);
   cursor: pointer;
   text-overflow: ellipsis;
   white-space: nowrap;
