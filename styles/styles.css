@@ -134,7 +134,10 @@ h1 { font-size: var(--heading-font-size-xxl);
     font-weight: 500; }
 h2 { font-size: var(--heading-font-size-xl); }
 h3 { font-size: var(--heading-font-size-l);
-    font-weight: 300; }
+    font-weight: 300;
+    /* logitech colorful section tab */
+    border-left: 10px solid #00fdcf;
+    padding-left: 20px; }
 h4 { font-size: var(--heading-font-size-m); }
 h5 { font-size: var(--heading-font-size-s); }
 h6 { font-size: var(--heading-font-size-xs); }
